@@ -80,7 +80,7 @@ const file_api_v1_log_proto_rawDesc = "" +
 	"\x10api/v1/log.proto\x12\x06log.v1\"6\n" +
 	"\x06Record\x12\x14\n" +
 	"\x05value\x18\x01 \x01(\fR\x05value\x12\x16\n" +
-	"\x06offset\x18\x02 \x01(\x04R\x06offsetB&Z$github.com/travis/jeffery/api/log_v1b\x06proto3"
+	"\x06offset\x18\x02 \x01(\x04R\x06offsetB\x1fZ\x1dgithub.com/ttousai/api/log_v1b\x06proto3"
 
 var (
 	file_api_v1_log_proto_rawDescOnce sync.Once
